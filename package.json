@@ -1,12 +1,12 @@
 {
-  "name": "ng2-bootstrap-daterangepicker",
+  "name": "ng2-daterangepicker",
   "version": "0.0.1",
   "description": "An Angular 2 Bootstrap date range picker wrapper",
   "main": "index.js",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/onehungrymind/ng2-bootstrap-daterangepicker.git"
+    "url": "git+https://github.com/simpulton/ng2-daterangepicker.git"
   },
   "keywords": [
     "angular",
@@ -26,7 +26,7 @@
   "author": "simpul@gmail.com",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/onehungrymind/ng2-bootstrap-daterangepicker/issues"
+    "url": "https://github.com/simpulton/ng2-daterangepicker/issues"
   },
-  "homepage": "https://github.com/onehungrymind/ng2-bootstrap-daterangepicker#readme"
+  "homepage": "https://github.com/simpulton/ng2-daterangepicker#readme"
 }
